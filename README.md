@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN and alongside diving deep in algorithms (just started grinding leetcode @ObviouslySarang ) 
 - 📫 Feel free to contact me on my mail 2003krishnadixit@gmail.com
 - ✨ here are my socials :
--     linkedIn : Sarang Dixit
+-     linkedIn : https://www.linkedin.com/in/sarang-dixit-144b36262/
 -     twitter : @ObviouslySarang
 -     
 <!---
