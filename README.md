@@ -5,7 +5,7 @@
 - ✨ here are my socials :
 -     linkedIn : https://www.linkedin.com/in/sarang-dixit-144b36262/
 -     twitter : @ObviouslySarang
--     
+
 <!---
 ObviouslySarang/ObviouslySarang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
