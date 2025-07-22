@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarang Dixit a fellow tech enthusiast with a pinch of colours in my mind .
 - 👀 I’m interested in the new technologies and working on my artistic endevaures as a hobby .
 - 🌱 I’m currently learning MERN and alongside diving deep in algorithms (just started grinding leetcode @ObviouslySarang ) 
-- 📫 Feel free to contact me on my mail 2003krishnadixit@gmail.com
+- 📫 Feel free to contact me on my mail srngdixit@gmail.com
 - ✨ here are my socials :
 -     linkedIn : https://www.linkedin.com/in/sarang-dixit-144b36262/
 -     twitter : @ObviouslySarang
